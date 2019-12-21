@@ -1,5 +1,5 @@
   ### Python template
-.DS_Store
+
 +Temp/
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -10,6 +10,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.DS_Store
 .Python
 env/
 build/
